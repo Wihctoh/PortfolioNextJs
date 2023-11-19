@@ -2,6 +2,7 @@
     width: 100%;
     max-width: 595px;
     padding: 48px;
+    margin: auto;
 
     display: flex;
     flex-direction: column;
@@ -26,7 +27,8 @@
             .titleDescription {
                 h1 {
                     color: #f5f8ff;
-                    font: 900 24px Poppins;
+                    font-size: 24px;
+                    font-weight: 900;
                     font-style: normal;
                     line-height: normal;
                     letter-spacing: 0.48px;
@@ -38,7 +40,8 @@
                         margin-top: 2px;
 
                         color: #f5f8ff;
-                        font: 600 12px Poppins;
+                        font-size: 12px;
+                        font-weight: 600;
                         font-style: normal;
                         line-height: 160%; /* 19.2px */
                         letter-spacing: 0.24px;
@@ -47,7 +50,7 @@
                             padding-right: 8px;
 
                             color: #c2c2c2;
-                            font: 400 12px Poppins;
+                            font-size: 12px;
                             font-weight: 400;
                             line-height: 160%; /* 19.2px */
                             letter-spacing: 0.24px;
@@ -65,7 +68,8 @@
     margin-top: 40px;
 
     color: #f5f8ff;
-    font: 900 16px Poppins;
+    font-size: 16px;
+    font-weight: 900;
     font-style: normal;
     line-height: 18px; /* 112.5% */
     letter-spacing: 0.16px;
@@ -87,7 +91,8 @@
     .jobTitle {
         h3 {
             color: #f5f8ff;
-            font: 500 16px Poppins;
+            font-size: 16px;
+            font-weight: 500;
             font-style: normal;
             line-height: 20px; /* 125% */
             letter-spacing: 0.8px;
@@ -95,7 +100,8 @@
 
         p {
             color: #f5f8ff;
-            font: 500 10px Poppins;
+            font-size: 10px;
+            font-weight: 500;
             font-style: normal;
             line-height: 20px; /* 200% */
             letter-spacing: 0.5px;
@@ -109,7 +115,8 @@
     margin-top: 40px;
 
     color: #f5f8ff;
-    font: 900 16px Poppins;
+    font-size: 16px;
+    font-weight: 900;
     font-style: normal;
     line-height: 18px; /* 112.5% */
     letter-spacing: 0.16px;
@@ -131,7 +138,6 @@
 
     .skill {
         color: #f5f8ff;
-        font-family: Poppins;
         font-size: 12px;
         font-style: normal;
         font-weight: 400;
@@ -162,7 +168,6 @@
             .educationDesc {
                 p {
                     color: #f5f8ff;
-                    font-family: Poppins;
                     font-size: 12px;
                     font-style: normal;
                     font-weight: 400;
@@ -184,7 +189,6 @@
             .langDesc {
                 p {
                     color: #f5f8ff;
-                    font-family: Poppins;
                     font-size: 12px;
                     font-style: normal;
                     font-weight: 400;
@@ -210,7 +214,6 @@
             .qrcodeDescription {
                 h2 {
                     color: #f5f8ff;
-                    font-family: Poppins;
                     font-size: 14px;
                     font-style: normal;
                     font-weight: 600;
@@ -220,7 +223,6 @@
                 }
                 p {
                     color: #c2c2c2;
-                    font-family: Poppins;
                     font-size: 12px;
                     font-style: normal;
                     font-weight: 300;
